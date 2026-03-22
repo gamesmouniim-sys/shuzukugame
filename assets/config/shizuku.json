@@ -1,0 +1,39 @@
+{
+  "ads": {
+    "AdsOk": false,
+    "ClickNumber": 5000,
+    "Promotion": false,
+    "appImageLink": "https://drive.google.com/uc?export=download&id=1xDTJtsrO2F33x-mb8s4DEUQixiBySK-A",
+    "appLink": "https://apps.apple.com/us/app/oklahoma-lineman-job-briefing/id1234567877",
+    "admob": {
+      "openAdsIds": "ca-app-pub-3940256099942544/9257395921",
+      "bannerIds": [
+        "ca-app-pub-3940256099942544/9214589741"
+      ],
+      "interIds": [
+        "ca-app-pub-3940256099942544/1033173712"
+      ],
+      "nativeIds": [
+        "ca-app-pub-3940256099942544/2247696110"
+      ],
+      "rewardIds": [
+        "ca-app-pub-3940256099942544/5224354917"
+      ]
+    },
+    "applovin": {
+      "sdk_key": "8RHCMxxZPei--AGwtM3E6OEev0RW51t-s1RrGEr0puTkrPT7XC7AEHoaUa2FCmJ3PTAJSVW2AeHBgIoA4MpNS-",
+      "bannerId": "",
+      "openAdsIds": "98a8231b59b74ca1",
+      "interId": "2ae0dda7ee854e8f",
+      "nativeId": "43e21bcddec13181",
+      "rewardId": "d57233c216d22816"
+    },
+    "settings": {
+      "openads": "admob",
+      "banners": "admob",
+      "inters": "admob",
+      "natives": "admob",
+      "rewards": "admob"
+    }
+  }
+}
