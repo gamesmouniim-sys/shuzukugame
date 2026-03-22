@@ -2,7 +2,7 @@ workflows:
   testFlight:
     name: Sahzad 
     integrations:
-      app_store_connect: Ajwah Sahzad
+      app_store_connect: Ajwah Shahzad
     environment:
       flutter: stable
       ios_signing:
