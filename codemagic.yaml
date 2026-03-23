@@ -8,7 +8,7 @@ workflows:
       ios_signing:
         bundle_identifier: com.shizuku.gamebooster
         provisioning_profiles:
-          - ShahzadProvi
+          - ShahzadProvis
         certificates:
           - ShahzadCer
     scripts:
